@@ -7,15 +7,15 @@
 .cuadro{
     text-align: center;
 }
-.cabecera{
+.header{
     background-color: lightcoral;
     text-align: left;
-    font-size: 20px;
+    font-size: 30px;
     font-weight: bold;
     margin: auto;
 
 }
-.imagenjake{
+.jake{
     width: 37px;
     height: 37px;
     margin: auto;
