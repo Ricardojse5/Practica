@@ -1,10 +1,25 @@
 .container{
     width: 70%;
-    margin:  auto;
+    margin:  20px auto;
     border: 1px solid gray;
     padding: 0;
 }
 .cuadro{
     text-align: center;
+}
+.cabecera{
+    background-color: lightcoral;
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+    margin: auto;
+
+}
+.imagen{
+    width: 37px;
+    height: 37px;
+    margin: auto;
+    vertical-align: middle;
+    
 }
 
