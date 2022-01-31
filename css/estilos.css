@@ -7,7 +7,7 @@
 .cuadro{
     text-align: center;
 }
-.header{
+.cebecera{
     background-color: lightcoral;
     text-align: left;
     font-size: 20px;
@@ -15,7 +15,7 @@
     margin: auto;
 
 }
-.jake{
+.perro{
     width: 37px;
     height: 37px;
     margin: auto;
